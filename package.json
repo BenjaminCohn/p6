@@ -1,11 +1,15 @@
 {
-  "name": "back",
+  "name": "saute-back",
   "version": "1.0.0",
-  "description": "",
+  "description": "Back pour le P6 ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
 }
